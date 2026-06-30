@@ -1,0 +1,279 @@
+How do you troubleshoot when a user cannot SSH into a Linux server?
+
+ 
+
+How do you check memory utilization?
+
+ 
+
+What do you do if an application process shows 100% CPU usage?
+
+ 
+
+How do you start troubleshooting if a Linux server is slow?
+
+ 
+
+How do you check link state of a network interface?
+
+ 
+
+How would you troubleshoot an application slowness issue reported as an incident?
+
+ 
+
+Can you write a simple Ansible playbook to install the HTTP package?
+
+ 
+
+On a scale of 1 to 5, how do you rate your Linux skills?
+
+ 
+
+What Linux activities have you done specifically in your project?
+
+ 
+
+How do you get network information such as IP address and routing information on a Linux server?
+
+ 
+
+How do you check DNS server configuration on Linux?
+
+ 
+
+ 
+
+ 
+
+ 
+
+your application team requests a new environment identical to production. So the requirements will be VPC, EKS cluster, I am role, route 53. These kind of infrastructure, They needed. the environment must be ready within two hours. How do you design Terraform modules?
+
+ 
+
+you have used Terraform for VPC subnets and all, but failed while creating EKS in a mid way. what will you do?
+
+ 
+
+How do you prevent accidental, production deletion?
+
+ 
+
+write a Docker file for Node.js application?
+
+ 
+
+difference of CMD and entry point? where we use Entrypoint and CMD?
+
+ 
+
+after deployment, your pods saying crash loop back off, And the application is down. how do you troubleshoot?
+
+ 
+
+Pod log shows, connection refused to database. So what will you do?
+
+ 
+
+How would you debug a running pod?
+
+ 
+
+your CPU utilization suddenly reaches to 80 percentage and you have given threshold as 80, the traffic increased 10X. how does EKS handle this?
+
+ 
+
+difference hpa and cluster autoscaler.
+
+ 
+
+What will you do if HPA is not scaling?
+
+ 
+
+Your Docker image pushed successfully, but deployment didn't happen. So what will be the issue and how do you check it? What commands do you use?
+
+ 
+
+In your Argo CD, your git repo got updated, but the cluster is not updated. so how do you check that?
+
+ 
+
+Trivy finds critical vulnerability in image. you have planned the release in two hours, so what will you do now?
+
+ 
+
+How do you enforce security gates?
+
+ 
+
+which activities automated for provisioning?
+
+ 
+
+you have planned deployment on Friday. deployment completed but user reported outage. your observation is pods running successfully and Alb also is healthy and control plane is also normal. But application returning 500 internal error. What should be the troubleshooting process.
+
+ 
+
+explain, VPC and its component?
+
+ 
+
+what is the maximum timeout in a lambda for execution of code?
+
+ 
+
+Can we allocate the CPU to Lambda function?
+
+ 
+
+you suspect that, one of your Unknown teammate trying to access S3 bucket, for which they don't have access. And you need to check who exactly is accessing, trying to accessing that particular bucket. how you will check that.
+
+ 
+
+different between EBS and EFS?
+
+ 
+
+how we can attach EFS to windows instance?
+
+ 
+
+difference between run and CMD command?
+
+ 
+
+difference between entry point and CMD?
+
+ 
+
+State file got corrupted, how you will recover that state file? how you will avoid this kind of corruption in a state file?
+
+ 
+
+if you have a multiple resources, and one that we don't need no longer, managed by Terraform. how you can remove that particular Resource from the Terraform state? how you can avoid this managed by Terraform further, but without deleting that resource.
+
+ 
+
+companies are using some pipeline for Terraform ,  Without any command execution. So for example, they might have a gate integration with Terraform, In that case, you don't have a CLI Access. In that case, how you would, do this same thing.
+
+ 
+
+is there any block that we can add? And we can get remove from this state file? Do you think that adding commands is the only option in pipeline.
+
+ 
+
+what is local, exec and remote.
+
+ 
+
+you have EC2 instance and where you need to perform some patch or install one package. can we use Terraform in that purpose as well or not?
+
+ 
+
+What exact steps you have performed to automate disaster recovery.
+
+ 
+
+multi-region failover to create automate disaster recovery, what was the infrastructure for that? Give me just overview.
+
+ 
+
+ 
+
+Multi-Region disaster recovery plan, how it is working? how would you switch the traffic from one region to another region? Is there any mechanism?
+
+ 
+
+have you faced some propagation delay in a DNS, failover process?
+
+ 
+
+what is the blue green strategy ? what is rolling deployment strategy. where exactly you are using blue green and where exactly you are using rolling strategies for deployment. What are the use cases?
+
+ 
+
+ 
+
+if pod is getting crashloopback off state, how do you debug it?
+
+ 
+
+How do you implement, zero downtime deployments in Kubernetes?
+
+ 
+
+do you know canary deployment, how it works?
+
+ 
+
+How do you restrict cross namespace communication?
+
+ 
+
+GitLab or GitHub what branching strategy is currently using for your project?
+
+ 
+
+Affinity and anti affinity in Kubernetes.
+
+ 
+
+there is a one text file in which there are N numbers of lines and there are many words. Now you have to search a word Tiger and replace it with cat. What would be the command? How you will have to do in a single command.
+
+ 
+
+If I remove i from this command what would be the impact?
+
+ 
+
+ 
+
+Replace Tiger to cat from the line number five to line number ten. what would be the command?
+
+ 
+
+Explain CI/CD pipeline.
+
+ 
+
+Public vs private subnet?
+
+ 
+
+What is internet gateway
+
+ 
+
+What is nat gateway
+
+ 
+
+Security group vs nacl
+
+ 
+
+ALB vs NLB
+
+ 
+
+S3 standard vs glacier
+
+ 
+
+K8s architecture
+
+ 
+
+Why namespace exist
+
+ 
+
+IAM roles vs user
+
+ 
+
+ 
+
+ 
